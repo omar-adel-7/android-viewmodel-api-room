@@ -1,0 +1,5 @@
+<resources>
+     <string name="wait">please wait</string>
+     <string name="no_intrnet_connection">No Internet connection</string>
+
+</resources>
